@@ -2,67 +2,69 @@
   "Solara": {
     "status": "online",
     "tags": {
-      "unc": 85,
-      "sunc": 70,
-      "myriad": 92
+      "unc": 66,
+      "sunc": 53,
+      "myriad": 66
     },
-    "download": "https://getsolara.dev/download/",
-    "discord": "https://getsolara.dev/download/",
-    "website": "https://getsolara.dev/download/"
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Solara.exe",
+    "discord": "",
+    "website": "https://getsolara.dev/"
   },
   "Xeno": {
     "status": "online",
     "tags": {
-      "unc": 78,
-      "sunc": 64,
-      "myriad": 88
+      "unc": 84,
+      "sunc": 40,
+      "myriad": 82
     },
-    "download": "",
-    "discord": "",
-    "website": ""
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Xeno.zip",
+    "discord": "https://discord.gg/xe-no",
+    "website": "https://www.xeno.now/"
   },
   "Madium": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
-      "unc": 91,
-      "sunc": 83,
-      "myriad": 76
+      "unc": 98,
+      "sunc": 100,
+      "myriad": 98
     },
-    "download": "",
-    "discord": "",
-    "website": ""
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Madium.exe",
+    "discord": "https://discord.gg/olemad",
+    "website": "https://getmadium.net/"
   },
   "Velocity": {
-    "status": "online",
+    "status": "offline",
     "tags": {
-      "unc": 69,
-      "sunc": 55,
-      "myriad": 81
+      "unc": 99,
+      "sunc": 98,
+      "myriad": 97
     },
-    "download": "",
-    "discord": "",
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Velocity.7z",
+    "discord": "https://discord.gg/velocityide",
     "website": ""
   },
   "Luna": {
-    "status": "online",
+    "status": "offline",
     "tags": {
-      "unc": 95,
-      "sunc": 89,
-      "myriad": 93
+      "unc": 0,
+      "sunc": 0,
+      "myriad": 0
     },
-    "download": "",
-    "discord": "",
-    "website": ""
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Luna.exe",
+    "discord": "https://discord.gg/YXXJQCpYBH",
+    "website": "https://github.com/tp-handler"
   },
   "Real": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
-      "unc": 82,
-      "sunc": 73,
-      "myriad": 67
+      "unc": 99,
+      "sunc": 100,
+      "myriad": 99
     },
-    "download": "",
-    "discord": "",
-    "website": ""
+    "download": "https://github.com/zyresrcs/lz4web/blob/main/Executors/Real.exe",
+    "discord": "https://discord.gg/projectreal",
+    "website": "https://projectreal.gg/",
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&includeLauncher=true&parallelDownloads=true&exploit=Real",
+    "downgrade_version": "17d504d2c9544583"
   }
 }
