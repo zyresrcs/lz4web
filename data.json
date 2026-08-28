@@ -1,0 +1,68 @@
+{
+  "Solara": {
+    "status": "online",
+    "tags": {
+      "unc": 85,
+      "sunc": 70,
+      "myriad": 92
+    },
+    "download": "https://getsolara.dev/download/",
+    "discord": "https://getsolara.dev/download/",
+    "website": "https://getsolara.dev/download/"
+  },
+  "Xeno": {
+    "status": "online",
+    "tags": {
+      "unc": 78,
+      "sunc": 64,
+      "myriad": 88
+    },
+    "download": "",
+    "discord": "",
+    "website": ""
+  },
+  "Madium": {
+    "status": "online",
+    "tags": {
+      "unc": 91,
+      "sunc": 83,
+      "myriad": 76
+    },
+    "download": "",
+    "discord": "",
+    "website": ""
+  },
+  "Velocity": {
+    "status": "online",
+    "tags": {
+      "unc": 69,
+      "sunc": 55,
+      "myriad": 81
+    },
+    "download": "",
+    "discord": "",
+    "website": ""
+  },
+  "Luna": {
+    "status": "online",
+    "tags": {
+      "unc": 95,
+      "sunc": 89,
+      "myriad": 93
+    },
+    "download": "",
+    "discord": "",
+    "website": ""
+  },
+  "Real": {
+    "status": "online",
+    "tags": {
+      "unc": 82,
+      "sunc": 73,
+      "myriad": 67
+    },
+    "download": "",
+    "discord": "",
+    "website": ""
+  }
+}
