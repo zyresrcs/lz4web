@@ -39,7 +39,7 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "downgrade",
+    "status": "offline",
     "tags": {
       "unc": 98,
       "sunc": 100,
