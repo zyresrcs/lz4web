@@ -8,7 +8,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Nexomia.exe",
     "discord": "https://discord.gg/Mbuam75Vja",
-    "website": "https://nexomia.win"
+    "website": "https://nexomia.win",
     "downgrade": "",
     "downgrade_version": ""
   },
@@ -21,7 +21,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Solara.exe",
     "discord": "",
-    "website": "https://getsolara.dev/"
+    "website": "https://getsolara.dev/",
     "downgrade": "",
     "downgrade_version": ""
   },
@@ -34,7 +34,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Xeno.zip",
     "discord": "https://discord.gg/xe-no",
-    "website": "https://www.xeno.now/"
+    "website": "https://www.xeno.now/",
     "downgrade": "",
     "downgrade_version": ""
   },
@@ -47,7 +47,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Madium.exe",
     "discord": "https://discord.gg/olemad",
-    "website": "https://getmadium.net/"
+    "website": "https://getmadium.net/",
     "downgrade": "",
     "downgrade_version": ""
   },
@@ -60,7 +60,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Velocity.7z",
     "discord": "https://discord.gg/velocityide",
-    "website": ""
+    "website": "",
     "downgrade": "",
     "downgrade_version": ""
   },
@@ -73,7 +73,7 @@
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Luna.exe",
     "discord": "https://discord.gg/YXXJQCpYBH",
-    "website": "https://github.com/tp-handler"
+    "website": "https://github.com/tp-handler",
     "downgrade": "",
     "downgrade_version": ""
   },
