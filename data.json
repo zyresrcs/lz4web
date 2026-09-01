@@ -42,16 +42,16 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "offline",
+    "status": "online",
     "tags": {
       "unc": 98,
-      "sunc": 100,
+      "sunc": 97,
       "myriad": 98
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Madium.exe",
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
-    "checkdate": "Unchecked",
+    "checkdate": "31/08/26",
     "downgrade": "",
     "downgrade_version": ""
   },
