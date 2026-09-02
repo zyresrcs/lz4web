@@ -1,6 +1,6 @@
 {
   "Nexomia": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 99,
       "sunc": 98,
@@ -10,8 +10,8 @@
     "discord": "https://discord.gg/Mbuam75Vja",
     "website": "https://nexomia.win",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "f5a60436d48947d3"
   },
   "Solara": {
     "status": "online",
@@ -42,7 +42,7 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 98,
       "sunc": 97,
@@ -52,8 +52,8 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "f5a60436d48947d3"
   },
   "Velocity": {
     "status": "offline",
@@ -70,7 +70,7 @@
     "downgrade_version": ""
   },
   "Luna": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 72,
       "sunc": 0,
@@ -80,11 +80,11 @@
     "discord": "https://discord.gg/YXXJQCpYBH",
     "website": "https://github.com/tp-handler",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "f5a60436d48947d3"
   },
   "Real": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 98,
       "sunc": 98,
@@ -94,8 +94,8 @@
     "discord": "https://discord.gg/projectreal",
     "website": "https://projectreal.gg/",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "f5a60436d48947d3"
   }
 }
 
