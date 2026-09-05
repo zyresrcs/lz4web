@@ -1,6 +1,6 @@
 {
   "Nexomia": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 99,
       "sunc": 98,
@@ -10,8 +10,8 @@
     "discord": "https://discord.gg/Mbuam75Vja",
     "website": "https://nexomia.win",
     "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "f5a60436d48947d3"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Solara": {
     "status": "online",
@@ -56,10 +56,10 @@
     "downgrade_version": "f5a60436d48947d3"
   },
   "Velocity": {
-    "status": "offline",
+    "status": "online",
     "tags": {
       "unc": 99,
-      "sunc": 98,
+      "sunc": 100,
       "myriad": 97
     },
     "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Velocity.7z",
@@ -84,7 +84,7 @@
     "downgrade_version": "f5a60436d48947d3"
   },
   "Real": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 98,
       "sunc": 98,
@@ -94,8 +94,8 @@
     "discord": "https://discord.gg/projectreal",
     "website": "https://projectreal.gg/",
     "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "f5a60436d48947d3"
+    "downgrade": "",
+    "downgrade_version": ""
   }
 }
 
