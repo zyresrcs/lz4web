@@ -42,7 +42,7 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 98,
       "sunc": 97,
@@ -52,8 +52,8 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "f5a60436d48947d3"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Velocity": {
     "status": "online",
@@ -70,30 +70,30 @@
     "downgrade_version": ""
   },
   "Luna": {
-    "status": "downgrade",
+    "status": "offline",
     "tags": {
-      "unc": 72,
+      "unc": 0,
       "sunc": 0,
       "myriad": 0
     },
-    "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/Luna.exe",
-    "discord": "https://discord.gg/YXXJQCpYBH",
-    "website": "https://github.com/tp-handler",
-    "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-f5a60436d48947d3&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "f5a60436d48947d3"
+    "download": "",
+    "discord": "",
+    "website": "",
+    "checkdate": "",
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Real": {
-    "status": "online",
+    "status": "offline",
     "tags": {
-      "unc": 98,
-      "sunc": 98,
-      "myriad": 99
+      "unc": 0,
+      "sunc": 0,
+      "myriad": 0
     },
-    "download": "https://github.com/zyresrcs/lz4web/raw/refs/heads/main/Executors/RealSetup_9f4b9d52ef2cf9aedf9f863461fcdffdf1ea967305539a998bd2204cceb45de5.exe",
-    "discord": "https://discord.gg/projectreal",
-    "website": "https://projectreal.gg/",
-    "checkdate": "30/08/26",
+    "download": "",
+    "discord": "",
+    "website": "",
+    "checkdate": "",
     "downgrade": "",
     "downgrade_version": ""
   }
