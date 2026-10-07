@@ -14,7 +14,7 @@
     "downgrade_version": ""
   },
   "Solara": {
-    "status": "offline",
+    "status": "downgrade",
     "tags": {
       "unc": 77,
       "sunc": 59,
