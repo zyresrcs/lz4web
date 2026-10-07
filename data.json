@@ -24,8 +24,8 @@
     "discord": "",
     "website": "https://getsolara.dev/",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "02c37bc51a384b8f",
+    "downgrade_version": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-02c37bc51a384b8f&includeLauncher=true&parallelDownloads=true"
   },
   "Xeno": {
     "status": "online",
