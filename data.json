@@ -14,7 +14,7 @@
     "downgrade_version": ""
   },
   "Solara": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 77,
       "sunc": 59,
@@ -24,8 +24,8 @@
     "discord": "",
     "website": "https://getsolara.dev/",
     "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-02c37bc51a384b8f&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "02c37bc51a384b8f"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Xeno": {
     "status": "online",
