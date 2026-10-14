@@ -1,6 +1,6 @@
 {
   "Nexomia": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 99,
       "sunc": 98,
@@ -10,11 +10,11 @@
     "discord": "https://discord.gg/Mbuam75Vja",
     "website": "https://nexomia.win",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "cec3ad5889b447cf"
   },
   "Solara": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 77,
       "sunc": 59,
@@ -24,8 +24,8 @@
     "discord": "",
     "website": "https://getsolara.dev/",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "cec3ad5889b447cf"
   },
   "Xeno": {
     "status": "online",
@@ -42,7 +42,7 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 98,
       "sunc": 97,
@@ -52,11 +52,11 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "cec3ad5889b447cf"
   },
   "Velocity": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 99,
       "sunc": 100,
@@ -66,8 +66,8 @@
     "discord": "https://discord.gg/velocityide",
     "website": "",
     "checkdate": "Unchecked",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "cec3ad5889b447cf"
   },
   "Luna": {
     "status": "offline",
