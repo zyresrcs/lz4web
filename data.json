@@ -56,7 +56,7 @@
     "downgrade_version": "cec3ad5889b447cf"
   },
   "Velocity": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 99,
       "sunc": 100,
@@ -66,8 +66,8 @@
     "discord": "https://discord.gg/velocityide",
     "website": "",
     "checkdate": "Unchecked",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "cec3ad5889b447cf"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Luna": {
     "status": "offline",
