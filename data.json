@@ -42,7 +42,7 @@
     "downgrade_version": ""
   },
   "Madium": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 98,
       "sunc": 97,
@@ -52,8 +52,8 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "cec3ad5889b447cf"
+      "downgrade": "",
+    "downgrade_version": ""
   },
   "Velocity": {
     "status": "online",
