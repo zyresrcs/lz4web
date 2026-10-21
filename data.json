@@ -1,6 +1,6 @@
 {
   "Nexomia": {
-    "status": "downgrade",
+    "status": "offline",
     "tags": {
       "unc": 99,
       "sunc": 98,
@@ -10,11 +10,11 @@
     "discord": "https://discord.gg/Mbuam75Vja",
     "website": "https://nexomia.win",
     "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-cec3ad5889b447cf&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "cec3ad5889b447cf"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Solara": {
-    "status": "online",
+    "status": "downgrade",
     "tags": {
       "unc": 77,
       "sunc": 59,
@@ -24,8 +24,8 @@
     "discord": "",
     "website": "https://getsolara.dev/",
     "checkdate": "30/08/26",
-    "downgrade": "",
-    "downgrade_version": ""
+    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "11f155f3450f4c8e"
   },
   "Xeno": {
     "status": "online",
@@ -52,8 +52,8 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-      "downgrade": "",
-    "downgrade_version": ""
+      "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "11f155f3450f4c8e"
   },
   "Velocity": {
     "status": "online",
@@ -66,8 +66,8 @@
     "discord": "https://discord.gg/velocityide",
     "website": "",
     "checkdate": "Unchecked",
-    "downgrade": "",
-    "downgrade_version": ""
+      "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
+    "downgrade_version": "11f155f3450f4c8e"
   },
   "Luna": {
     "status": "offline",
