@@ -14,7 +14,7 @@
     "downgrade_version": ""
   },
   "Solara": {
-    "status": "downgrade",
+    "status": "online",
     "tags": {
       "unc": 77,
       "sunc": 59,
@@ -24,8 +24,8 @@
     "discord": "",
     "website": "https://getsolara.dev/",
     "checkdate": "30/08/26",
-    "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "11f155f3450f4c8e"
+    "downgrade": "",
+    "downgrade_version": ""
   },
   "Xeno": {
     "status": "online",
@@ -52,8 +52,8 @@
     "discord": "https://discord.gg/olemad",
     "website": "https://getmadium.net/",
     "checkdate": "31/08/26",
-      "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "11f155f3450f4c8e"
+      "downgrade": "",
+    "downgrade_version": ""
   },
   "Velocity": {
     "status": "online",
@@ -66,8 +66,8 @@
     "discord": "https://discord.gg/velocityide",
     "website": "",
     "checkdate": "Unchecked",
-      "downgrade": "https://rdd.weao.gg/?channel=LIVE&binaryType=WindowsPlayer&version=version-11f155f3450f4c8e&includeLauncher=true&parallelDownloads=true",
-    "downgrade_version": "11f155f3450f4c8e"
+      "downgrade": "",
+    "downgrade_version": ""
   },
   "Luna": {
     "status": "offline",
